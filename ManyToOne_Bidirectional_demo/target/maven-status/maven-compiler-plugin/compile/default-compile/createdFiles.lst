@@ -1,0 +1,5 @@
+com\example\springJPA\controller\AccountController.class
+com\example\springJPA\ManyToOneUnidirectionalDemoApplication.class
+com\example\springJPA\model\Account.class
+com\example\springJPA\repository\AccountRepository.class
+com\example\springJPA\model\Branch.class
